@@ -31,6 +31,7 @@ public class App {
      byte b = -24;
      
      sam.stop(b);
+     sam.stop(b);
      
      
      
