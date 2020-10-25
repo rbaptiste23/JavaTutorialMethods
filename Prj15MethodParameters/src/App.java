@@ -6,7 +6,6 @@ class Robot {
 	}
 	
 	public void jump(int height) {
-		System.out.println("Jumping: " + height);
 		System.out.println("Not Jumping: " + height);
 	}
 	
