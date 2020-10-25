@@ -15,6 +15,8 @@ class Robot {
 	
 	public void stop(byte val) {
 		System.out.println("This is my byte " + val);
+		System.out.println("This is my byte " + val);
+		System.out.println("This is my byte " + val);
 	}
 
 	
