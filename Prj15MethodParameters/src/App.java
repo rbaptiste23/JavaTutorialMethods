@@ -19,7 +19,10 @@ class Robot {
 		System.out.println("This is my byte " + val);
 	}
 
-	
+	public void flip() {
+		System.out.println("The robot is flipping");
+		 
+	}
 }
 
 
